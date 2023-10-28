@@ -11,4 +11,4 @@ Last week I passed the CompTIA Network+ certification test! I'm still studying f
 
 Actually I think I'm going to start studying for the Security+ now. Once I get Security+ I will keep studying for the CCNA.
 
-The Net+ was a good exam. The first 5 questions were performace based questions. They weren't too difficult but I felt flustered and spent a good deal of time working through the questions. After that I had to fly through the multiple choice questions in order to finish on time. Thankfully I passed!
+The Net+ was a good exam. The first 5 questions were performace based questions. They weren't too difficult but I felt flustered and spent a good deal of time working through the questions. After that I had to fly through the multiple choice questions in order to finish on time. Thankfully I passed!gi

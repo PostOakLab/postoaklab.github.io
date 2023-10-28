@@ -1,8 +1,8 @@
 ---
 title: Studying for the CCNA
 date: 2023-10-01 20:15:00 -500
-categories: [CCNA, certifications, studying]
-tags: [CCNA, cisco, studying]
+categories: [CCNA,certifications,studying]
+tags: [CCNA,cisco,studying]
 ---
 
 # Studying for the CCNA
